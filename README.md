@@ -1,13 +1,9 @@
-## [mural compassion](https://webmural.com/compassion)
+## [mural cohesion](https://webmural.com/cohesion)
 
 ```
-compassion
-com passion
-compass ion
-comp noissa
+cohesion ess venusia
+cohesion plays our process
+cohesion lucid compassion
+cohesion learning
+name resampling
 ```
-
-## [body](index.html) [feel](feel.css) [full](full.css) 💜
-
-* [HTML](https://developer.mozilla.org/HTML)
-* [CSS](https://developer.mozilla.org/CSS)
