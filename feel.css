@@ -1,26 +1,25 @@
-.mahalo {
-  font-size: max(2em, 11vw);
-  font-family: fantasy;
-  font-family: sans-serif;
+html {
+  font: max(2em, 5vmax)/1.618 sans-serif;
 }
 
-@media (orientation: portrait) {
-  .mahalo {
-    line-height: 2;
-  }
-}
-
-.vessel {
+body {
   margin: auto;
   overflow-wrap: anywhere;
-  padding: 1ex;
 }
 
-.aloha { 
+article { 
   font-size: inherit;
+  margin: 1em;
+}
+
+h1 {
   margin: 0;
 }
 
-.macaw {
+span {
+  font-weight: lighter;
+}
+
+p {
   margin: auto;
 }
